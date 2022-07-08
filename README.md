@@ -31,7 +31,7 @@ You can read these 5 bolgs. The definition of OPC and the principles of 4 numeri
 - [Numerical method for solving OPC (1): gradient method](https://leilie.top/2022-06-25/Study-Gradient-Method-for-OCP),
 - [Numerical method for solving OPC (2): shooting method](https://leilie.top/2022-07-02/Study-Shooting-Method-for-OCP),
 - [Numerical method for solving OPC (3): multiple shooting method](https://leilie.top/2022-07-06/Study-Multiple-Shooting-Method-for-OCP),
-- [Numerical method for solving OPC (4): pseudospectral method](https://leilie.top/2022-07-07/Study-Pseudospectral-Method-for-OCP)。
+- [Numerical method for solving OPC (4): pseudospectral method](https://leilie.top/2022-07-07/Study-Pseudospectral-Method-for-OCP).
 
 Hope these bolgs and codes help you a lot.
 
