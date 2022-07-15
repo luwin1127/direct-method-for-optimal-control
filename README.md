@@ -1,6 +1,6 @@
 @Author: Lei Lie
 
-@E-mail: lordofdapanji@formail.com
+@E-mail: lordofdapanji@foxmail.com
 
 该仓库包含了四种求解最优控制问题的数值法代码，分别是：
 
