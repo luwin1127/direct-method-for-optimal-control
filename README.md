@@ -19,7 +19,7 @@
 
 希望这些文章和代码可以帮助到你，也可以点颗星星支持一下这个项目。
 
-This repository includes 4 types codes of solving optimal control problem (OPC), that is:
+This repository includes 4 types codes of solving optimal control problem (OCP), that is:
 
 - gradient method,
 - shooting method,
