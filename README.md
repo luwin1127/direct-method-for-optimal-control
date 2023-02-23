@@ -26,7 +26,7 @@ This repository includes 4 types codes of solving optimal control problem (OCP),
 - multiple shooting method,
 - pseudospectral method.
 
-You can read these 5 bolgs. The definition of OPC and the principles of 4 numerical method are decribed in detailed, that is:
+You can read these 5 bolgs. The definition of OCP and the principles of 4 numerical method are decribed in detailed, that is:
 
 - [Numerical method for solving OPC (0): definition](https://leilie.top/2022-07-01/Study-OPC),
 - [Numerical method for solving OPC (1): gradient method](https://leilie.top/2022-06-25/Study-Gradient-Method-for-OCP),
