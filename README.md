@@ -17,7 +17,7 @@
 - [数值法求解最优控制问题（三）——多重打靶法](https://leilie.top/2022-07-06/Study-Multiple-Shooting-Method-for-OCP)；
 - [数值法求解最优控制问题（四）——伪谱法](https://leilie.top/2022-07-07/Study-Pseudospectral-Method-for-OCP)。
 
-希望这些文章和代码可以帮助到你。
+希望这些文章和代码可以帮助到你，也可以点颗星星支持一下这个项目。
 
 This repository includes 4 types codes of solving optimal control problem (OPC), that is:
 
@@ -36,4 +36,4 @@ You can read these 5 bolgs. The definition of OPC and the principles of 4 numeri
 
 Hope these bolgs and codes help you a lot.
 
-EN TARO OPEN ACCESS!
+And maybe you can star this project?
