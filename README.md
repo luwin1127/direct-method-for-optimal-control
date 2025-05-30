@@ -28,11 +28,11 @@ This repository includes 4 types codes of solving optimal control problem (OCP),
 
 You can read these 5 bolgs. The definition of OCP and the principles of 4 numerical method are decribed in detailed, that is:
 
-- [Numerical method for solving OPC (0): definition](https://leilie.top/2022-07-01/Study-OPC),
-- [Numerical method for solving OPC (1): gradient method](https://leilie.top/2022-06-25/Study-Gradient-Method-for-OCP),
-- [Numerical method for solving OPC (2): shooting method](https://leilie.top/2022-07-02/Study-Shooting-Method-for-OCP),
-- [Numerical method for solving OPC (3): multiple shooting method](https://leilie.top/2022-07-06/Study-Multiple-Shooting-Method-for-OCP),
-- [Numerical method for solving OPC (4): pseudospectral method](https://leilie.top/2022-07-07/Study-Pseudospectral-Method-for-OCP).
+- [Numerical method for solving OCP (0): definition](https://leilie.top/2022-07-01/Study-OPC),
+- [Numerical method for solving OCP (1): gradient method](https://leilie.top/2022-06-25/Study-Gradient-Method-for-OCP),
+- [Numerical method for solving OCP (2): shooting method](https://leilie.top/2022-07-02/Study-Shooting-Method-for-OCP),
+- [Numerical method for solving OCP (3): multiple shooting method](https://leilie.top/2022-07-06/Study-Multiple-Shooting-Method-for-OCP),
+- [Numerical method for solving OCP (4): pseudospectral method](https://leilie.top/2022-07-07/Study-Pseudospectral-Method-for-OCP).
 
 Hope these bolgs and codes help you a lot.
 
